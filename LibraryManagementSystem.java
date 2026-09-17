@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// ---------------- BOOK CLASS ----------------
+// ---------------- BOOK CLASS ---------------
 class Book {
     int bookId;
     String title;
