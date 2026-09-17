@@ -11,7 +11,7 @@
 
 | Author | Course |
 |--------|--------|
-| Sumit Kumar Chandwani | Programming in Java |
+| Tushar Verma | Programming in Java |
 
 </div>
 
